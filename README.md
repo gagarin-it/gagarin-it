@@ -41,7 +41,7 @@
     </a>
 </div>
 
-<details>
+<!-- <details>
   <summary>📃 Resume</summary>
 
 
@@ -100,7 +100,7 @@
   
 ## About me
   asdasdasdasd
-</details>
+</details> -->
 
   
 <!--
